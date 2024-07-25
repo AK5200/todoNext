@@ -1,0 +1,6 @@
+
+.head
+{
+    background: rgb(15,0,255);
+background: linear-gradient(90deg, rgba(15,0,255,1) 0%, rgba(0,207,249,1) 50%, rgba(0,0,255,1) 100%);
+}
